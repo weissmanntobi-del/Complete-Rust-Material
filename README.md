@@ -5,3 +5,4 @@
 <li> Rust Mini-Books (Production-Grade Series) : https://tobiweissmann.gumroad.com/l/ruyxup </li> 
 <li> Mastering Rust Borrow Checker: https://tobiweissmann.gumroad.com/l/bmcdn </li>
 <li> Rust Web Programming : https://tobiweissmann.gumroad.com/l/gztncx </li>
+<li> Rust Beginner Bundle: https://tobiweissmann.gumroad.com/l/enldsy </li>
