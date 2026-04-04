@@ -1,4 +1,8 @@
-# rust-study-material
+
+# Rust Complete Course Material
+<li>Complete Rust Material : https://tobiweissmann.gumroad.com/l/gnuvxu</li>
+
+# Rust-Study-Material
 <li> Rust Mini Projects Zero To Production: https://tobiweissmann.gumroad.com/l/ranqd </li>
 <li> Rataui in Rust: https://tobiweissmann.gumroad.com/l/hxtxs </li>
 <li> Production Async Rust Tokio: https://tobiweissmann.gumroad.com/l/aahkqa </li>
@@ -12,5 +16,3 @@
 <li> Rust Observability Checklist : https://tobiweissmann.gumroad.com/l/xfzvf </li>
 <li> Rust Interview PlayBook: https://tobiweissmann.gumroad.com/l/nfzrx </li>
 
-# Rust Complete Course Material
-<li>Complete Rust Material : https://tobiweissmann.gumroad.com/l/gnuvxu</li>
